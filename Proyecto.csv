@@ -1,0 +1,25 @@
+Location,Job_Title,Publisher_Name,Publisher_Link,Min_Salary,Max_Salary,Median_Salary,Salary_Period,Salary_Currency
+"New York, NY",Data Scientist,Indeed,https://www.indeed.com/cmp/JPMorgan-Chase-&-Co-7555c073/salaries/Data-Scientist/New-York-NY,129720.11,156222.06,139483.98,YEAR,USD
+"New York, NY",Data Scientist,Builtinnyc,https://www.builtinnyc.com/salaries/data-analytics/data-scientist/new-york,60000.0,250000.0,135000.0,YEAR,USD
+"New York, NY",Data Scientist,Glassdoor,"https://www.glassdoor.com/Salary/Meta-Data-Scientist-New-York-City-Salaries-EJI_IE40772.0,4_KO5,19_IL.20,33_IM615.htm",147772.0,191914.0,168402.0,YEAR,USD
+Washington,Data Scientist,Indeed,https://www.indeed.com/cmp/Indeed/salaries/Data-Scientist/Washington-State?period=DAILY,264.0,1120.0,687.9889,YEAR,USD
+"Seattle, WA",Data Scientist,Builtinseattle,https://www.builtinseattle.com/salaries/data-analytics/data-scientist/seattle,95000.0,200000.0,138000.0,YEAR,USD
+"Seattle, WA",Data Scientist,Glassdoor,"https://www.glassdoor.com/Salary/Amazon-Data-Scientist-Seattle-Salaries-EJI_IE6036.0,6_KO7,21_IL.22,29_IM781.htm",133881.0,170691.0,151170.0,YEAR,USD
+"Chicago, IL",Data Scientist,Builtinchicago,https://www.builtinchicago.org/salaries/data-analytics/data-scientist/chicago,82500.0,187500.0,112000.0,YEAR,USD
+"Chicago, IL",Data Scientist,Indeed,https://www.indeed.com/cmp/The-University-of-Chicago/salaries/Data-Scientist/Chicago-IL,21000.0,159000.0,73999.95,YEAR,USD
+"Chicago, IL",Senior Data Scientist,Glassdoor,"https://www.glassdoor.com/Salary/84-51%C2%B0-Senior-Data-Scientist-Chicago-Salaries-EJI_IE992979.0,6_KO7,28_IL.29,36_IM167.htm",113960.0,159835.0,134962.0,YEAR,USD
+"Houston, TX",Entry Level Data Scientist,Indeed,https://www.indeed.com/cmp/IBM/salaries/Entry-Level-Data-Scientist/Houston-TX,89665.805,107984.625,96414.84,YEAR,USD
+"Houston, TX",Data Scientist,Glassdoor,"https://www.glassdoor.com/Salary/Baker-Hughes-Data-Scientist-Houston-Salaries-EJI_IE1902699.0,12_KO13,27_IL.28,35_IM394.htm",96736.0,142753.0,117513.0,YEAR,USD
+"Houston, TX",Entry Level Data Scientist,Ziprecruiter,"https://www.ziprecruiter.com/Salaries/Entry-Level-Data-Scientist-Salary-in-Houston,TX",97884.0,232058.0,165019.0,YEAR,USD
+"Los Angeles, CA",Data Scientist,Indeed,https://www.indeed.com/cmp/IBM/salaries/Data-Scientist/Los-Angeles-CA,134965.03,162538.53,145123.69,YEAR,USD
+"Los Angeles, CA",Data Scientist,Builtinla,https://www.builtinla.com/salaries/data-analytics/data-scientist/los-angeles,90000.0,345000.0,130000.0,YEAR,USD
+"Los Angeles, CA",Data Science,Glassdoor,"https://www.glassdoor.com/Hourly-Pay/Los-Angeles-Times-Data-Science-Los-Angeles-Hourly-Pay-EJI_IE141484.0,17_KO18,30_IL.31,42_IM508.htm",51.0,76.0,63.0,YEAR,USD
+"Phoenix, AZ",Data Scientist,Indeed,https://www.indeed.com/cmp/Intel-Corporation/salaries/Data-Scientist/Phoenix-AZ,57000.0,233000.0,130903.92,YEAR,USD
+"Phoenix, AZ",Data Scientist,Glassdoor,"https://www.glassdoor.com/Salary/American-Express-Data-Scientist-Phoenix-Salaries-EJI_IE35.0,16_KO17,31_IL.32,39_IM678.htm",111124.0,140620.0,125005.0,YEAR,USD
+"Phoenix, AZ",Data Scientist,Ziprecruiter,"https://www.ziprecruiter.com/Salaries/Data-Scientist-Salary-in-Phoenix,AZ",72669.0,163270.0,119373.0,YEAR,USD
+"San Antonio, TX",Data Scientist,Indeed,https://www.indeed.com/cmp/Petco/salaries/Data-Scientist/San-Antonio-TX,,,110000.0,YEAR,USD
+"San Antonio, TX",Data Scientist,Builtin,https://builtin.com/salaries/data-analytics/data-scientist/san-antonio-tx,110000.0,142000.0,126000.0,YEAR,USD
+"San Antonio, TX",Entry Level Data Scientist,Ziprecruiter,"https://www.ziprecruiter.com/Salaries/Entry-Level-Data-Scientist-Salary-in-San-Antonio,TX",92454.0,219183.0,134919.0,YEAR,USD
+"San Diego, CA",Data Scientist,Indeed,https://www.indeed.com/cmp/Bd/salaries/Data-Scientist/San-Diego-CA,,,169796.0,YEAR,USD
+"San Diego, CA",Data Scientist,Glassdoor,"https://www.glassdoor.com/Salary/Petco-Data-Scientist-San-Diego-Salaries-EJI_IE37962.0,5_KO6,20_IL.21,30_IM758.htm",119527.0,152200.0,134878.0,YEAR,USD
+"San Diego, CA",Entry Level Data Scientist,Ziprecruiter,"https://www.ziprecruiter.com/Salaries/Entry-Level-Data-Scientist-Salary-in-San-Diego,CA",108825.0,257995.0,161451.0,YEAR,USD
